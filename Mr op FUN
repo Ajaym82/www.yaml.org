@@ -1,0 +1,9 @@
+123-vpnjantit.com￼Enter
+UUID:
+bf78947c-6e98-11ef-92a0-2bfe4aee1a10
+Link Vless WS with TLS:
+vless://bf78947c-6e98-11ef-92a0-2bfe4aee1a10@in1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#123-vpnjantit.com
+ Copy Link
+Link VLess Only WS:
+vless://bf78947c-6e98-11ef-92a0-2bfe4aee1a10@in1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#123-vpnjantit.com
+Server Host Vless: in1.vpnjantit.com
